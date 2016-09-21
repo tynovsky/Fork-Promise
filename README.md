@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/tynovsky/Fork-Promise.svg?branch=master)](https://travis-ci.org/tynovsky/Fork-Promise)
 # NAME
 
 Fork::Promise - run a code in a subprocess and get a promise that it ended

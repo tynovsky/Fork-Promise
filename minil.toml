@@ -1,5 +1,5 @@
 name = "Fork-Promise"
-# badges = ["travis"]
+badges = ["travis"]
 authority="cpan:TYNOVSKY"
 
 module_maker="ModuleBuildTiny"

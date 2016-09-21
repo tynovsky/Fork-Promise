@@ -55,6 +55,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/tynovsky/Fork-Promise/issues"
+      },
+      "homepage" : "https://github.com/tynovsky/Fork-Promise",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/tynovsky/Fork-Promise.git",
+         "web" : "https://github.com/tynovsky/Fork-Promise"
+      }
+   },
    "version" : "0.1.0",
    "x_authority" : "cpan:TYNOVSKY",
    "x_serialization_backend" : "JSON::PP version 2.27300"
